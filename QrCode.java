@@ -1,3 +1,4 @@
+// Chloe Kershner
 
 import java.util.Random;
 public class QrCode {
